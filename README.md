@@ -80,4 +80,6 @@ Academic project - Newcastle University EEE8087 Coursework
 
 ---
 
-*This implementation demonstrates core RTOS concepts including task management, scheduling algorithms, and inter-task synchronization using mutexes.*
+## Academic Integrity Notice
+
+This code is shared for portfolio and professional demonstration purposes only. If you are a student viewing this for coursework reference, please ensure you understand the implementation and comply with your university's academic integrity policy. Direct copying may result in academic penalties.
